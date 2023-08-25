@@ -1,1 +1,4 @@
-# SENAC-PWNB-1142021707-PedroSantosSilva
+# SENAC-ENTREGAS
+# Entregas da disciplina Programção Web
+# Pedro Santos Silva
+# 1142021707
